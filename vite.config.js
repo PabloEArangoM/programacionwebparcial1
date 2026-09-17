@@ -4,6 +4,6 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 // IMPORTANTE: cambia "nombre-del-repo" por el nombre real de tu repositorio en GitHub
 export default defineConfig({
-  base: '/nombre-del-repo/',
+  base: '/programacionwebparcial1/',
   plugins: [react()],
 })
